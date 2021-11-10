@@ -17,6 +17,6 @@ Jupyter notebooks are divided into cells. Each cell can be a code cell or a text
 
 ### What is Google Colaboratory?
 
-Google Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs and TPUs. 
+Google Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs and TPUs. See more [in this video](https://www.youtube.com/watch?v=inN8seMm7UI).
 
 Each of the notebooks on this repository contains a link at the top, which redirects you to Colab where you can run and experiment with the notebook without having to worry about installing Jupyter or any other software.
