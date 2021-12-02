@@ -5,7 +5,8 @@
 ### Materials for live sessions following lectures
 
 Currently available:
-* [Lab 1 - Introduction to Machine Learning](https://github.com/bazylip/gradient-live-session/tree/main/lab1)
+* [Lab 1 - Introduction to Machine Learning part 1](https://github.com/bazylip/gradient-live-session/tree/main/lab1)
+* [Lab 2 - Introduction to Machine Learning part 2](https://github.com/bazylip/gradient-live-session/tree/main/lab2)
 * [Lab 3 - Introduction to Deep Learning](https://github.com/bazylip/gradient-live-session/tree/main/lab3)
 * [Lab 4 - Convolutional Neural Networks](https://github.com/bazylip/gradient-live-session/tree/main/lab4)
 
