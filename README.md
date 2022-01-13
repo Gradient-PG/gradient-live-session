@@ -10,6 +10,7 @@ Currently available:
 * [Lab 3 - Introduction to Deep Learning](https://github.com/bazylip/gradient-live-session/tree/main/lab3)
 * [Lab 4 - Convolutional Neural Networks](https://github.com/bazylip/gradient-live-session/tree/main/lab4)
 * [Lab 5 - Recurrent Neural Networks](https://github.com/bazylip/gradient-live-session/tree/main/lab5)
+* [Lab 6 - Machine Learning Tools](https://github.com/bazylip/gradient-live-session/tree/main/lab6)
 
 ### What is a Jupyter Notebook?
 
