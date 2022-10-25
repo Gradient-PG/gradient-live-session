@@ -4,13 +4,19 @@
 
 ### Materials for live sessions following lectures
 
-Currently available:
-* [Lab 1 - Introduction to Machine Learning part 1](https://github.com/bazylip/gradient-live-session/tree/main/lab1%20-%20Intro%20to%20ML%20pt.%201)
-* [Lab 2 - Introduction to Machine Learning part 2](https://github.com/bazylip/gradient-live-session/tree/main/lab2%20-%20Intro%20to%20ML%20pt.%202)
-* [Lab 3 - Introduction to Deep Learning](https://github.com/bazylip/gradient-live-session/tree/main/lab3%20-%20Intro%20to%20DL)
-* [Lab 4 - Convolutional Neural Networks](https://github.com/bazylip/gradient-live-session/tree/main/lab4%20-%20CNN)
-* [Lab 5 - Recurrent Neural Networks](https://github.com/bazylip/gradient-live-session/tree/main/lab5%20-%20RNN)
-* [Lab 6 - Machine Learning Tools](https://github.com/bazylip/gradient-live-session/tree/main/lab6%20-%20ML%20Tools)
+#### 2022 Edition coming soon!
+
+<details>
+  <summary>2021 Edition</summary>
+  
+  * [1. Intro to ML pt. 1]()
+  * [2. Intro to ML pt. 2]()
+  * [3. Intro to DL]()
+  * [4. CNN]()
+  * [5. RNN]()
+  * [6. ML Tools]()
+  * [7. ML Deployment]()
+</details>
 
 ### What is a Jupyter Notebook?
 
