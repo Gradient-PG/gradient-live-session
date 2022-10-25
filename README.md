@@ -9,13 +9,13 @@
 <details>
   <summary>2021 Edition</summary>
   
-  * [1. Intro to ML pt. 1]()
-  * [2. Intro to ML pt. 2]()
-  * [3. Intro to DL]()
-  * [4. CNN]()
-  * [5. RNN]()
-  * [6. ML Tools]()
-  * [7. ML Deployment]()
+  * [1. Intro to ML pt. 1](https://github.com/Gradient-PG/gradient-live-session/tree/main/2021%20Edition/1.%20Intro%20to%20ML%20pt.%201)
+  * [2. Intro to ML pt. 2](https://github.com/Gradient-PG/gradient-live-session/tree/main/2021%20Edition/2.%20Intro%20to%20ML%20pt.%202)
+  * [3. Intro to DL](https://github.com/Gradient-PG/gradient-live-session/tree/main/2021%20Edition/3.%20Intro%20to%20DL)
+  * [4. CNN](https://github.com/Gradient-PG/gradient-live-session/tree/main/2021%20Edition/4.%20CNN)
+  * [5. RNN](https://github.com/Gradient-PG/gradient-live-session/tree/main/2021%20Edition/5.%20RNN)
+  * [6. ML Tools](https://github.com/Gradient-PG/gradient-live-session/tree/main/2021%20Edition/6.%20ML%20Tools)
+  * [7. ML Deployment](https://github.com/Gradient-PG/gradient-live-session/tree/main/2021%20Edition/7.%20ML%20Deployment)
 </details>
 
 ### What is a Jupyter Notebook?
